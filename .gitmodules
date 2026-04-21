@@ -1,0 +1,3 @@
+[submodule "libs/metal-shader-converter"]
+	path = libs/metal-shader-converter
+	url = https://github.com/Graine25/metal-shader-converter.git
